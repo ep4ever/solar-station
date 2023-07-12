@@ -1,0 +1,9 @@
+[submodule "serial-service"]
+	path = serial-service
+	url = git@github.com:ep4ever/serial-service.git
+[submodule "http-service"]
+	path = http-service
+	url = git@github.com:ep4ever/http-service.git
+[submodule "solar-webapp"]
+	path = solar-webapp
+	url = git@github.com:ep4ever/solar-webapp.git
