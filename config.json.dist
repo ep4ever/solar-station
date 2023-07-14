@@ -1,7 +1,10 @@
 {
     "db_folder": "http-service/dbfiles",
     "nightenv_filepath": "http-service/dbfiles/.nightenv",
-    "devices": ["DeviceNameSettedInSerialService"],
+    "devices": [{
+        "name": "changeme",
+        "port": "/dev/null",
+    }],
     "datas": [
         {
             "fieldname": "device_temp",
