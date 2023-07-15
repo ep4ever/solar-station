@@ -3,7 +3,7 @@
     "nightenv_filepath": "dbfiles/.nightenv",
     "devices": [{
         "name": "changeme",
-        "port": "/dev/null",
+        "port": "/dev/null"
     }],
     "datas": [
         {
